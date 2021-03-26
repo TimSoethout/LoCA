@@ -1,8 +1,10 @@
-## ING Rebel Specifications Code Generation Library
+## Local Coordination Avoidance Runtime
+
+Used in evaluation of paper https://dl.acm.org/doi/abs/10.1145/3358499.3361222.
 
 After cloning this project:
 
-1. Go to the ing-codegen-akka folder and launch SBT:
+1. Go to its folder and launch SBT:
 
         $ sbt
 
@@ -69,4 +71,4 @@ This is needed because the generated code depends on this artifact as a library.
 
 ## Disclaimer
 
-This code is used for research and proof of concept. It is currently in no state to be used for production.
+This code is used for research and proof of concept. It is currently in no state to be used for production. Use at your own risk.
